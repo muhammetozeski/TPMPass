@@ -19,7 +19,7 @@
 <img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/3ff2c5d9-3e31-4f0a-9385-cfbcb07d538a" />
 <img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/f8a68ff9-a87e-42fc-824e-9735abc40be9" />
 
-# This is all you need to enter, you don't need to remember a password:
+**This is all you need to enter, you don't need to remember a password:**
 <img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/f90d7d61-80f5-4bc3-b780-8ba47338f6bb" />
 
 <img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/7e50364b-b367-4083-bf99-bd787f95aef4" />
